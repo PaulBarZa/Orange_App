@@ -39,11 +39,6 @@ class HomeActivity : AppCompatActivity() {
                         false
                 )
 
-        runBlocking {
-            val product = RetrofitInstance.api.getProductByCode("737628064502")
-            data.AddFavProduct(product.product)
-        }
-
         products = data.GetFavProducts()
         adapter = ProductAdapter(products)
         list_product_recyclerview.adapter = adapter
