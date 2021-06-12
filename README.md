@@ -4,9 +4,9 @@
 
 ![Logo image](screenshots/logo.png)
 
-### Page d'acceuil
+### Page d'accueil
 
-Lors de l'arrivé sur l'application la page d'acceuil comporte la **liste des produits mis en favoris**. Des informations sur ces produits sont disponibles directement dans cette liste tel que **son nom**, **sa photo**, **ses ingrédients**, **son écoscore** ainsi que son **nutriscore**.
+Lors de l'arrivé sur l'application la page d'accueil comporte la **liste des produits mis en favoris**. Des informations sur ces produits sont disponibles directement dans cette liste tel que **son nom**, **sa photo**, **ses ingrédients**, **son écoscore** ainsi que son **nutriscore**.
 
 ![Home image](screenshots/home.png)
 
@@ -30,7 +30,7 @@ Sur cette page quelques informations supplémentaires sont affichées telles que
 
 #### 1. La liste complète des ingrédients
 
-Pour en savoir plus sur la totalité des ingrédients qui composent ce produit. Allergies, curiosité ou encore ingrédients boycotés, vous aurez toutes vos informations.
+Pour en savoir plus sur la totalité des ingrédients qui composent ce produit. Allergies, curiosité ou encore ingrédients boycottés, vous aurez toutes vos informations.
 
 #### 2. L'impact écologique
 
@@ -52,7 +52,7 @@ Un coeur plein signifie que le produit est déjà dans votre liste de favoris. U
 
 ### Scanner un produit
 
-Pour scanner votre produit rien de plus simple, appuyer sur l'image de scanne ci dessous présente sur la page d'acceuil:
+Pour scanner votre produit rien de plus simple, appuyer sur l'image de scanne ci dessous présente sur la page d’accueil:
 
 ![Scanner image](screenshots/scanner.png)
 
